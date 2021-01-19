@@ -32,7 +32,9 @@ def balanced_softmax_loss(self):
 ```
 
 ## Installation 
-To install Detectron2, please follow the procedures described [here](INSTALL.md).
+Clone this repo by `git clone https://github.com/Majiker/BalancedMetaSoftmax-InstanceSeg.git`
+
+Install detectron2 by `python -m pip install -e BalancedMetaSoftmax-InstanceSeg`
 
 To set up LVIS-0.5 dataset, please follow the procedures described [here](datasets/README.md).
 
